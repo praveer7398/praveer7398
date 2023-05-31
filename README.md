@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveer7398&label=Profile%20views&color=0e75b6&style=flat" alt="praveer7398" /> </p>
 
-- 🔭 I’m currently learning **android development**
+- 🔭 I’m currently working on **android development**
 
 - 🌱 I’m currently learning **Kotlin and Java**
 
